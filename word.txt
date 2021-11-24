@@ -1,0 +1,1 @@
+hello this is a demo for txt file in git using command.
