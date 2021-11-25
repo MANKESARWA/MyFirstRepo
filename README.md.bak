@@ -2,5 +2,9 @@
 # Hello India!!
 # Hello user!!
 # file to be edited
-This is the edit in the remote repo
+<<<<<<< HEAD
+
 This is the edit in the local repo
+=======
+This is the edit in the remote repo 1
+>>>>>>> cd5106fbc4e32256e6c7be43ad5bde505970b365
