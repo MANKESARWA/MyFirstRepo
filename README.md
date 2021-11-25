@@ -17,4 +17,6 @@ this is edit at second branch
 
 THis is edit at second branch at local repo.
 
+this is edit for the ch1 branch copy.
+
 
