@@ -15,6 +15,18 @@ This is the edit for the remote repo for second time.
 
 this is edit at second branch
 
+<<<<<<< HEAD
 THis is edit at second branch at local repo.
 
+this is edit for the ch1 branch copy.
 
+
+=======
+this is edit at second branch at remote repo
+
+
+this is edit at ch2 branch
+
+this is edit at ch1 branch
+
+>>>>>>> 27e22c05a1e5dab6f9af461ff2d63ec1676d5bec
