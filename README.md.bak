@@ -8,5 +8,9 @@ This is the edit in the local repo
 
 This is the edit in the remote repo 1
 
+<<<<<<< HEAD
 This is edit in the second local repo
+=======
+This is the edit for the remote repo for second time.
+>>>>>>> 39231ee53ec5bbf1867f2d01d1a38ae83bf457db
 
